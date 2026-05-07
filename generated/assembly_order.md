@@ -1,7 +1,7 @@
 # Assembly Order — S01 + S02
 
 **Updated:** 2026-05-07
-**Total duration:** 50 seconds (S01: 26s, S02: 24s)
+**Total duration:** 52 seconds (S01: 26s, S02: 26s)
 **Clips:** 8
 
 | Order | Shot ID | Sub-clip | Selected clip | Boundary after | Notes |
@@ -13,7 +13,7 @@
 | 5 | S02_SH001 | — | generated/S02_SH001/selected.mp4 | continuous | Bunker establishing dolly forward |
 | 6 | S02_SH002 | — | generated/S02_SH002/selected.mp4 | scene_cut | Strawberry CU with water droplet |
 | 7 | S02_SH003 | — | generated/S02_SH003/selected.mp4 | scene_cut | Robot tracking shot |
-| 8 | S02_SH004 | — | generated/S02_SH004/selected.mp4 | scene_cut | Bee cabinet insert |
+| 8 | S02_SH004 | — | generated/S02_SH004/selected.mp4 | scene_cut | Bee cabinet insert — v2 extended bee flight |
 
 ## Assembly Notes
 
@@ -46,4 +46,4 @@ Mixed resolution timeline:
 - S02_SH001: accepted (v1)
 - S02_SH002: accepted (v1)
 - S02_SH003: accepted (v1)
-- S02_SH004: accepted (v1)
+- S02_SH004: accepted (v2) — extended to 6s on Seedance 2.0 for fuller bee flight

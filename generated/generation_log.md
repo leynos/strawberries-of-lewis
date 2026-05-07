@@ -11,7 +11,7 @@
 | S02_SH001 | — | generated/S02_SH001/selected.mp4 | 8 | completed | accepted | v1 | kling3_0 | 61c19e48-b841-4f81-81de-e3617cb3cf07 | S02 | 9.5MB | 1284x716 | | scene-pack/prompts/shot_S02_SH001_prompt.md | | | false | true | | Bunker establishing dolly; sound=on auto-set; H.264 Main |
 | S02_SH002 | — | generated/S02_SH002/selected.mp4 | 6 | completed | accepted | v1 | seedance_2_0 | f56e0ef8-eb06-4971-a7ba-ab9fff39c2b4 | S02 | 6.1MB | 1920x1080 | | scene-pack/prompts/shot_S02_SH002_prompt.md | | | false | true | | Strawberry CU; generate_audio=true auto-set; H.264 High |
 | S02_SH003 | — | generated/S02_SH003/selected.mp4 | 6 | completed | accepted | v1 | seedance_2_0 | d30b610b-e8d4-4f8b-901f-c8a30eb6e592 | S02 | 4.6MB | 1920x1080 | | scene-pack/prompts/shot_S02_SH003_prompt.md | | | false | true | | Robot tracking; robot ref 837bc15a; H.264 High |
-| S02_SH004 | — | generated/S02_SH004/selected.mp4 | 4 | completed | accepted | v1 | kling3_0 | 61672e4f-5f5e-4f01-aa5b-38f05467833e | S02 | 3.0MB | 1284x716 | | scene-pack/prompts/shot_S02_SH004_prompt.md | | | false | true | | Bee cabinet insert; sound=on auto-set; H.264 Main |
+| S02_SH004 | — | generated/S02_SH004/selected.mp4 | 6 | completed | accepted | v2 | seedance_2_0 | 6652d7cc-d62b-4e7f-b6bf-2f2f6a0bb1ce | S02 | 2.9MB | 1920x1080 | | scene-pack/prompts/shot_S02_SH004_prompt.md | | | false | true | | Bee flight retake: extended to 6s on Seedance 2.0 for fuller bee takeoff; H.264 High |
 
 ---
 
@@ -20,6 +20,7 @@
 | Shot ID | Sub-clip | Local file | Duration seconds | Status | Review | Take | Model | Job ID | Notes |
 |---------|----------|------------|------------------|--------|--------|------|-------|--------|-------|
 | S01_SH004 | — | generated/S01_SH004/v1.mp4 | 6 | completed | superseded | v1 | seedance_2_0 | 95ebaafa-6129-48a8-906d-7d77e1a71aea | Vehicles facing wrong direction; superseded by v2 |
+| S02_SH004 | — | generated/S02_SH004/v1.mp4 | 4 | completed | superseded | v1 | kling3_0 | 61672e4f-5f5e-4f01-aa5b-38f05467833e | 4s Kling; bee flight too brief; superseded by 6s Seedance v2 |
 
 ---
 
