@@ -30,3 +30,7 @@
 ## Consistency Notes
 - Robot design must match reference
 - Amber colour temperature consistent with bunker interior vocabulary
+
+## Generation Prompt
+
+Low angle at floor level. A spaniel-sized inspection robot rolls steadily from left to right along a lane between raised grow beds. Dark metallic body, sensor array on top, small green LED indicators. The camera tracks with it at a moderate, unhurried pace, revealing new sections of strawberry plants as it passes. The concrete floor is clean. Amber grow-light from above illuminates the scene throughout. Grow beds, floor, and overhead light strips remain consistent across the frame. Framed as a medium shot on a 50mm spherical lens, tracking right. The scene is warm amber-gold from above, an artificial mid-summer feel with high humidity haze visible in the light shafts, strawberry scarlet at full vibrancy against the amber surround, polycarbonate arched roof overhead. Shot on 35 mm spherical with Kodak Vision3 250D characteristics: fine-to-medium organic grain, slightly desaturated shadows carrying a blue-grey undertone, lifted blacks at 10-12 IRE. The start image is the first frame. The end image is the final frame. Preserve all supplied reference-image identities and layouts throughout. No narration.

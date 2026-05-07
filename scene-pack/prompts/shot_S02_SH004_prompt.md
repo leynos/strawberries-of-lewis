@@ -28,3 +28,7 @@
 
 ## Consistency Notes
 - Amber interior consistent with bunker lighting
+
+## Generation Prompt
+
+Insert shot on an 85mm spherical lens, static camera, slow and intimate framing. A bee cabinet interior fills the frame. Warm amber light illuminates golden honeycomb with several bees at work on its surface. A small door mechanism at the frame edge clicks and opens wider. One bee lifts off from the comb near the end of the shot, its wings catching amber light. The honeycomb structure and the other bees remain static. The mechanism is the only hard movement besides the departing bee. The scene is warm amber-gold from above, an artificial mid-summer feel with high humidity haze visible in the light. Shot on 35 mm spherical with Kodak Vision3 250D characteristics: fine-to-medium organic grain, slightly desaturated shadows carrying a blue-grey undertone, lifted blacks at 10-12 IRE. The start image is the first frame. The end image is the final frame. Preserve all supplied reference-image identities and layouts throughout. No narration.

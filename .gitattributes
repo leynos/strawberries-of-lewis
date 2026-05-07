@@ -1,0 +1,4 @@
+generated/**/*.mp4 filter=lfs diff=lfs merge=lfs -text
+shots/**/*.png filter=lfs diff=lfs merge=lfs -text
+reference_assets/**/*.png filter=lfs diff=lfs merge=lfs -text
+strawberries-of-lewis-S01_assets/**/*.png filter=lfs diff=lfs merge=lfs -text

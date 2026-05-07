@@ -30,3 +30,7 @@
 ## Consistency Notes
 - Amber colour temperature must not vary; strawberry scarlet at full saturation
 - Selective saturation: Strawberry Scarlet exempt from desaturation
+
+## Generation Prompt
+
+Wide shot on a 28mm spherical lens, slow dolly forward drawing the viewer steadily into the depth of the space. Camera dollies slowly forward into a strawberry bunker. An arched polycarbonate roof overhead is fitted with amber LED grow-light strips. Raised grow beds line both sides, filled with strawberry plants at various stages of growth, their fruit at full scarlet vibrancy. A spaniel-sized inspection robot sits motionless in the central lane. Humidity haze catches the amber light in visible shafts. The concrete floor is clean, with pipe infrastructure visible below the beds. The camera advances at an immersive, unhurried pace, revealing more of the bunker's depth as it progresses. The scene is warm amber-gold throughout, an artificial mid-summer feel with high humidity haze catching light from above. Shot on 35 mm spherical with Kodak Vision3 250D characteristics: fine-to-medium organic grain, slightly desaturated shadows carrying a blue-grey undertone, lifted blacks at 10-12 IRE. The start image is the first frame. The end image is the final frame. Preserve all supplied reference-image identities and layouts throughout. No narration.
